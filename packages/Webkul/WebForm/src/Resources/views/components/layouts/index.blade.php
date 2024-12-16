@@ -14,7 +14,7 @@
         http-equiv="X-UA-Compatible"
         content="IE=edge"
     >
-    
+
     <meta
         http-equiv="content-language"
         content="{{ app()->getLocale() }}"
@@ -55,7 +55,7 @@
     @else
         <link
             type="image/x-icon"
-            href="{{ vite()->asset('images/favicon.ico') }}"
+            href="{{ vite()->asset('images/favicon.png') }}"
             rel="shortcut icon"
             sizes="16x16"
         />

@@ -20,9 +20,9 @@
     "file": "assets/icomoon-81aea726.woff",
     "src": "src/Resources/assets/fonts/icomoon.woff"
   },
-  "src/Resources/assets/images/favicon.ico": {
-    "file": "assets/favicon-a99d4e55.ico",
-    "src": "src/Resources/assets/images/favicon.ico"
+  "src/Resources/assets/images/favicon.png": {
+    "file": "assets/favicon.png",
+    "src": "src/Resources/assets/images/favicon.png"
   },
   "src/Resources/assets/images/krayin-logo.svg": {
     "file": "assets/krayin-logo-4636add7.svg",
